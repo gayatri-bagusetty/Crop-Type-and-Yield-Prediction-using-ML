@@ -1,0 +1,5 @@
+Model,R2 (mean),R2 (std),MAE (mean)
+Baseline (mean),-0.0,0.0,150.259
+Linear Regression,0.842,0.02,60.497
+Random Forest,0.972,0.019,8.986
+XGBoost,0.966,0.022,10.458

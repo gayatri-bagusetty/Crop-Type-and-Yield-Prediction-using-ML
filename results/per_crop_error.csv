@@ -1,0 +1,56 @@
+Crop,n,MAE,median_yield,MAE_pct_of_median
+Sugarcane,112,5.88,56.51,10.41
+Garlic,31,0.45,4.25,10.69
+Coconut,34,999.12,9052.82,11.04
+Soyabean,63,0.13,1.11,11.76
+Tapioca,34,2.03,17.1,11.84
+Khesari,15,0.1,0.77,13.0
+Arhar/Tur,107,0.1,0.79,13.04
+Ragi,98,0.15,1.11,13.9
+Barley,52,0.22,1.58,14.2
+Groundnut,147,0.18,1.2,14.93
+Masoor,69,0.12,0.74,15.63
+Moong(Green Gram),146,0.08,0.53,15.63
+Jute,35,1.29,8.14,15.86
+Other Kharif pulses,75,0.12,0.72,16.5
+Small millets,97,0.12,0.69,16.72
+Other  Rabi pulses,76,0.13,0.74,17.15
+Sweet potato,57,1.49,8.51,17.47
+Wheat,103,0.3,1.69,17.81
+Linseed,65,0.09,0.5,18.04
+Rice,236,0.4,2.21,18.13
+Cowpea(Lobia),25,0.21,1.11,18.79
+Urad,161,0.11,0.57,19.55
+Sesamum,150,0.1,0.47,21.08
+Mesta,39,1.25,5.7,21.97
+Potato,109,2.05,9.33,21.98
+Rapeseed &Mustard,111,0.16,0.71,22.35
+Peas & beans (Pulses),88,0.21,0.93,23.04
+Gram,103,0.19,0.83,23.31
+Sunflower,80,0.19,0.8,23.75
+Castor seed,66,0.15,0.62,24.6
+Horse-gram,68,0.1,0.4,25.63
+Jowar,102,0.25,0.96,26.44
+Niger seed,41,0.1,0.36,26.92
+Turmeric,61,0.53,1.93,27.76
+Safflower,39,0.13,0.43,29.62
+Banana,56,6.28,20.56,30.54
+Arecanut,37,0.44,1.33,33.06
+Onion,93,3.38,9.95,33.94
+Ginger,78,1.83,5.11,35.83
+Moth,19,0.13,0.34,37.53
+Black pepper,22,0.22,0.58,38.74
+Guar seed,13,0.3,0.77,39.31
+Cotton(lint),98,0.63,1.55,40.39
+Oilseeds total,5,0.57,1.34,42.66
+Coriander,49,0.24,0.48,49.44
+Maize,197,1.12,1.94,57.79
+Dry chillies,89,0.59,1.01,58.88
+Other Cereals,28,0.37,0.58,63.0
+other oilseeds,27,0.42,0.6,69.93
+Bajra,99,0.77,1.01,75.61
+Sannhamp,17,0.59,0.73,81.9
+Tobacco,67,1.4,1.2,116.83
+Other Summer Pulses,5,1.0,0.69,145.51
+Cardamom,17,0.21,0.08,278.72
+Cashewnut,27,4.09,0.47,869.42
