@@ -54,7 +54,7 @@ Hold-out set (Random Forest): R² = 0.980, MAE = 9.41, **median absolute error =
 5. **The model mostly learns "which crop".** Permutation importance is dominated by `Crop`, followed by rainfall and state. Crop is large partly because yield units differ across crops, so this shouldn't be read as an agronomic finding.
    ![importance](results/06_importance.png)
 
-## Fixing v1: what I changed
+## Fixing v1: What I changed from my first version
 The original notebook had several issues that inflated or distorted results:
 - **Target leakage:** `Production` was used as an input, and Yield ≈ Production ÷ Area. Removing it is essential for an honest model.
 - **`Crop` was missing from the yield model**, although yield differs enormously by crop. Adding it back was the main accuracy recovery.
