@@ -100,4 +100,4 @@ python src/train.py        # trains and saves the model
 - Per-crop models or log-scale targets for rare crops
 
 ## Author
-**Mohan Ganesh**, M.Tech Data Science | [LinkedIn: add link] | [Email: add email]
+**Bagusetty Gayatri**, M.Tech Data Science | https://www.linkedin.com/in/bagusetty-gayatri/ | bagusettygayatri@gmail.com
