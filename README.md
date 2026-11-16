@@ -1,4 +1,4 @@
-# Crop Yield Prediction using Machine Learning
+# Crop Yield Prediction and Analysis 
 
 Predicting crop yield for Indian agriculture (1997–2020) with a **leak-free scikit-learn pipeline**, 5-fold cross-validation, per-crop error analysis, and data-driven insights on what separates high- and low-yield crops, states and seasons.
 
